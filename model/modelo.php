@@ -2,6 +2,6 @@
 
 
 
-echo "produccion de proyecto";
+
 
 
