@@ -13,18 +13,26 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/TonnyRon/crud_mvc.git",
-    "accountId": "cf3dcc6a-9d4a-4994-a13d-2614a5db06be"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TonnyRon/crud_mvc.git&quot;,
+    &quot;accountId&quot;: &quot;cf3dcc6a-9d4a-4994-a13d-2614a5db06be&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -38,7 +46,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "<unknown>",
-    "last_opened_file_path": "C:/xampp/htdocs/crud_mvc",
+    "last_opened_file_path": "C:/xampp/htdocs/crud_mvc/app/views/css",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,6 +57,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\crud_mvc\app\views\css" />
+      <recent name="C:\xampp\htdocs\crud_mvc\app\views\js" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,7 +81,9 @@
       <updated>1740764174394</updated>
       <workItem from="1740764175794" duration="908000" />
       <workItem from="1740765091104" duration="1596000" />
-      <workItem from="1740792340550" duration="5912000" />
+      <workItem from="1740792340550" duration="6069000" />
+      <workItem from="1740801901560" duration="2823000" />
+      <workItem from="1740838247189" duration="3653000" />
     </task>
     <servers />
   </component>

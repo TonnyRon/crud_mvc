@@ -5,5 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title><?php  echo APP_NAME; ?></title>
 
+    <link rel="stylesheet" href= <?php APP_URL ?> "app/views/css/bulma.min.css">
+
+    <link rel="stylesheet" href= <?php APP_URL ?> "app/views/css/estilos.css">
+    <link rel="stylesheet" href= <?php APP_URL ?> "app/views/css/sweetalert2.min.css">
+
+    <script src=<?php APP_URL ?>"app/views/js/sweetalert2.all.min.js"></script>
+
 
 </head>
