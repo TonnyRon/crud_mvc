@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27620a2e-006a-4cf5-8f07-2dde57383788" name="Changes" comment="" />
+    <list default="true" id="27620a2e-006a-4cf5-8f07-2dde57383788" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/controllers/viewsController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/viewsModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/content/404-view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/content/dashboard-view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/content/login-view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/inici.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +46,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2tgC8vJDBV5ZqMI10I7iZsj7IYt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +57,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging ",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/xampp/htdocs/crud_mvc/app/views/css",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -83,7 +95,8 @@
       <workItem from="1740765091104" duration="1596000" />
       <workItem from="1740792340550" duration="6069000" />
       <workItem from="1740801901560" duration="2823000" />
-      <workItem from="1740838247189" duration="4234000" />
+      <workItem from="1740838247189" duration="4541000" />
+      <workItem from="1740857796917" duration="4034000" />
     </task>
     <servers />
   </component>
