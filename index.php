@@ -12,6 +12,4 @@
     </body>
 </html>
 
-<li></li>
-<li></li>
-<li></li>
+
